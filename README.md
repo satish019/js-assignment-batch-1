@@ -1,2 +1,2 @@
-# js-assignment-day-6-batch-1
+# js-assignment-day-1-batch-1
 letsupgrade assignment  solutions
